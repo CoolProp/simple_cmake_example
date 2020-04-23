@@ -14,7 +14,7 @@ git clone --recursive https://github.com/CoolProp/simple_cmake_example
 ```
 2. Move into the directory
 ```
-cd simple_make_example
+cd simple_cmake_example
 ```
 3. Make directories
 ```
